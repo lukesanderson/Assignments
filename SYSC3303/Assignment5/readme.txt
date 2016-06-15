@@ -1,10 +1,10 @@
 SYSC3303 - ASSIGNMENT5
 LUKE SANDERSON
 100938914
-——————————
+--------------
 
 Assignment5 Files Included: 5 Total
-——————————
+--------------
 
 Question1.png: Processor utilization and explanation for question 1.
 
